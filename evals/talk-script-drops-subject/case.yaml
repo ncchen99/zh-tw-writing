@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: talk-script-drops-subject
+expected_outcome: |
+  一段大約兩分鐘的台灣繁體中文講稿。四個重點都講到，沒有編造重點以外的數字或經驗。
+  句子多半省略主詞，沒有句句「我」開頭。沒有口號式的金句收尾。

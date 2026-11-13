@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: keeps-story-details
+expected_outcome: |
+  一份台灣繁體中文的筆記。故事裡的原因、笑點、數字都留著，沒有壓成幾句結論。
+  主持人的提問和講者的回答分得清楚。沒有中國用語、破折號、分號，也沒有「不是 X 而是 Y」這類句型。
+context:
+  scaffold_script: place-files.sh
