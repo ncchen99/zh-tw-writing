@@ -92,7 +92,7 @@ python3 scripts/zh_lint.py 文章.md
 
 | 路徑 | 內容 |
 |---|---|
-| `SKILL.md` | 十一條寫作規則，每條附原因和對照例子，另有交稿前的檢查步驟 |
+| `SKILL.md` | 十二條寫作規則，每條附原因和對照例子，另有交稿前的檢查步驟 |
 | `references/ai-tells.md` | AI 腔的句型和詞，每一類都有改法 |
 | `references/translationese.md` | 翻譯腔的句法、硬翻的慣用語、哪些詞該留英文 |
 | `references/tw-terms.md` | 中國用語和台灣用語對照，分科技、商業、一般用語，另有語氣詞 |
